@@ -1,2 +1,2 @@
-# web-informasi
+# Perhitungan
 Web Developer ( PHP Native )
